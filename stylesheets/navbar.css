@@ -1,0 +1,12 @@
+.navbar {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.navbar-logo {
+    color: white;
+    text-decoration: none;
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 10px;
+}
